@@ -8,18 +8,18 @@ body{
 }
 .texto-precio{
     font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 0px;
+    /* font-weight: bold;
+    margin-bottom: 0px; */
 }
 .texto-descuento{
     font-size: 16px;
-    color: #39b54a;
+    /* color: #39b54a;
     font-weight: bold;
-    margin-top: 0px;
+    margin-top: 0px; */
 }
 .texto-desc{
     font-size: 16px;
-    color: #666;
+    /* color: #666; */
 }
 /* =====Colors*=====*/
 .ml-yellow-text{

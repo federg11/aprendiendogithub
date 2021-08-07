@@ -1,9 +1,12 @@
- #ml-nav ul{
+ /* .ml-nav{
+     display: none;
+ } */
+ .ml-nav ul{
     list-style-type: none;
     padding-left: 0;
-    display: none;
+
 }
-#ml-nav a {
+.ml-nav a {
     text-decoration: none;
     color: black;
 } 
@@ -11,11 +14,11 @@
 .burger-menu{
     text-align: center;
     font-size: 24px;
-    width: 40px;
+    width: 44px;
     padding: 8px;
     margin: 0 auto;
     border-radius: 5px;
-    height: 40px;
+    height: 44px;
     background-color: #1259c3;
 }
      .burger-menu i{
@@ -28,25 +31,24 @@
 #main-content{
     padding: 0 5%;
 }
-
-.info-content{
-    border-top: 1px solid #ebebeb;
-    padding: 15px;
-
+.product{
+    border: 1px solid #ebebeb;
 }
-.info-content p{
-    text-align: left;
-    padding-left: 20px;
+.product-wrapper{
+    padding: 5px;
 }
-.info-content i{
-    text-align: left;
-    padding-left: 20px;
+.product-img{
+    border-bottom: 1px solid #ebebeb;
+}
+.product-content .texto-desc{
+    display: none;
 }
 .camion{
+    font-size: 16px;
+    padding: 5px;
+    display: block;
+    width: 30px;
+    height: 30px;
     border: 1px solid #39b54a;
     border-radius: 50%;
-    padding:8px;
-    color:green;
-    text-align: left;
-
 }

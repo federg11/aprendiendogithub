@@ -1,0 +1,7 @@
+.footer-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.align{
+    text-align: start;
+}

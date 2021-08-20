@@ -1,3 +1,13 @@
+.barra{
+    background-color: white;
+    border: 10px;
+    overflow: hidden;
+}
+.barra input, button{
+    background-color: white;
+    border: none;
+    height: 30px;
+}
 .ml-nav{
     display: none;
  } 
@@ -114,4 +124,8 @@
 .mb{
     margin-top: 10px;
     padding: 15px;
+}
+.regresar{
+    text-decoration: none;
+    color: black;
 }

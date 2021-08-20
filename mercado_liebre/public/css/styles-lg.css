@@ -5,3 +5,11 @@
 .align{
     text-align: start;
 }
+.footer-icon{
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #1259c3;
+}
+.footer-icon:hover{
+    color: rgb(248, 162, 3);
+}
